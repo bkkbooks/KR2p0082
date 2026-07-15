@@ -21,7 +21,13 @@ assets:
   markers:
   - {seq: 1, role: markers, filename: assets/KR2p0082_001-tls.markers.yaml, hash: 'sha256:bc7d478e3eadecbc2cb2ec843cff4ce3ff2e9aec2b56e60e8853f230b2381253'}
 table_of_contents:
-- ref: {seq: 1, marker_id: '', span: [body, 0, 226]}
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 226
   label: ''
   type: section
   level: 1

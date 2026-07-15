@@ -110,6 +110,7 @@ markers:
   - {type: punctuation, offset: 158, content: 【, id: KR2p0082_tls_001-bkkpn56}
   - {type: punctuation, offset: 160, content: 】, id: KR2p0082_tls_001-bkkpn57}
   - {type: 'tls:seg', offset: 160, content: '', id: KR2p0082_tls_001-6a.7}
+  - {type: substitution, offset: 163, original: 弃, replacement: 棄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16564}}
   - {type: punctuation, offset: 164, content: ，, id: KR2p0082_tls_001-bkkpn58}
   - {type: 'tls:seg', offset: 164, content: '', id: KR2p0082_tls_001-6a.8}
   - {type: xml-element, offset: 170, content: '', id: KR2p0082_tls_001-bkkxmlele12, name: p, role: close, attrs: {source: 'SHANGBO.CHENGWANGWEICHENG 9.54.6 (STRIPS B2-A4) MACHENGYUAN 9: 152, 149 TR. MARCO CABOARA'}}
@@ -155,4 +156,4 @@ markers:
   - {type: punctuation, offset: 226, content: 】, id: KR2p0082_tls_001-bkkpn79}
   - {type: xml-element, offset: 226, content: '', id: KR2p0082_tls_001-bkkxmlele18, name: p, role: close, attrs: {source: 'SHANGBO.CHENGWANGWEICHENG 9.54.9 (STRIP B3 ) MACHENGYUAN 9: 152 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:5831c9ba308e36573d282b515a0e89e0f925451759fc0234abf0483dbbeca334
+hash: sha256:6aa378019e8ef913ff11fa3997f46d34e1758d738a788c2ac99fb0a027c9036c
