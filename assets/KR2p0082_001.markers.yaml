@@ -34,6 +34,7 @@ markers:
   - {type: punctuation, offset: 40, content: ), id: KR2p0082_tls_001-bkkpn17}
   - {type: punctuation, offset: 40, content: ，, id: KR2p0082_tls_001-bkkpn18}
   - {type: 'tls:seg', offset: 40, content: '', id: KR2p0082_tls_001-2a.3}
+  - {type: voice, offset: 40, length: 0, name: note, id: n1}
   - {type: punctuation, offset: 44, content: ，, id: KR2p0082_tls_001-bkkpn19}
   - {type: 'tls:seg', offset: 44, content: '', id: KR2p0082_tls_001-2a.4}
   - {type: xml-element, offset: 47, content: '', id: KR2p0082_tls_001-bkkxmlele4, name: p, role: close, attrs: {source: 'SHANGBO.CHENGWANGWEICHENG 9.54.2 (STRIPS A1-A2) MACHENGYUAN 9: 144-146 TR. MARCO CABOARA'}}
@@ -66,10 +67,12 @@ markers:
   - {type: punctuation, offset: 91, content: (, id: KR2p0082_tls_001-bkkpn31}
   - {type: punctuation, offset: 91, content: '?', id: KR2p0082_tls_001-bkkpn32}
   - {type: punctuation, offset: 91, content: ), id: KR2p0082_tls_001-bkkpn33}
+  - {type: voice, offset: 91, length: 0, name: note, id: n2}
   - {type: punctuation, offset: 92, content: (, id: KR2p0082_tls_001-bkkpn34}
   - {type: punctuation, offset: 92, content: '?', id: KR2p0082_tls_001-bkkpn35}
   - {type: punctuation, offset: 92, content: ), id: KR2p0082_tls_001-bkkpn36}
   - {type: 'tls:seg', offset: 92, content: '', id: KR2p0082_tls_001-4a.5}
+  - {type: voice, offset: 92, length: 0, name: note, id: n3}
   - {type: punctuation, offset: 95, content: ：, id: KR2p0082_tls_001-bkkpn37}
   - {type: 'tls:seg', offset: 95, content: '', id: KR2p0082_tls_001-4a.6}
   - {type: punctuation, offset: 99, content: 【, id: KR2p0082_tls_001-bkkpn38}
@@ -88,6 +91,7 @@ markers:
   - {type: punctuation, offset: 122, content: ), id: KR2p0082_tls_001-bkkpn45}
   - {type: punctuation, offset: 122, content: ，, id: KR2p0082_tls_001-bkkpn46}
   - {type: 'tls:seg', offset: 122, content: '', id: KR2p0082_tls_001-5a.4}
+  - {type: voice, offset: 122, length: 0, name: note, id: n4}
   - {type: punctuation, offset: 126, content: ，, id: KR2p0082_tls_001-bkkpn47}
   - {type: punctuation, offset: 126, content: 【, id: KR2p0082_tls_001-bkkpn48}
   - {type: punctuation, offset: 128, content: 】, id: KR2p0082_tls_001-bkkpn49}
@@ -156,4 +160,4 @@ markers:
   - {type: punctuation, offset: 226, content: 】, id: KR2p0082_tls_001-bkkpn79}
   - {type: xml-element, offset: 226, content: '', id: KR2p0082_tls_001-bkkxmlele18, name: p, role: close, attrs: {source: 'SHANGBO.CHENGWANGWEICHENG 9.54.9 (STRIP B3 ) MACHENGYUAN 9: 152 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:6aa378019e8ef913ff11fa3997f46d34e1758d738a788c2ac99fb0a027c9036c
+hash: sha256:871ed5382733dcba75903e035452ceb55fe2469722699f8de157afc8c8b4fcca
